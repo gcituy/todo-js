@@ -1,0 +1,17 @@
+
+Cuando tenemos ya otro Repositorio en GITHUB Pages cuidado
+
+Debemos setear el ORIGIN al repositorio remoto nuevo, hay dos comandos importntes:
+
+1) git remote --verbose
+
+La salida es algo así con el:
+
+origin	https://github.com/your/repository (fetch) 
+origin	https://github.com/your/repository (push)
+
+indica el repositorio usado.
+
+2) git remote set-url origin https://github.com/your-other/repository
+
+Setea el origin al nuevo repositorio
