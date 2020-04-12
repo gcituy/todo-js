@@ -1,0 +1,5 @@
+Referencia al Metodo Map en Arrays
+https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/map
+
+Referencia al metodo filter en Arrays
+https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/filter
